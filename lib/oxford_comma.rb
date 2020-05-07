@@ -1,5 +1,5 @@
 def oxford_comma(array)
-["hats","glasses","shirts"].join
+[array].join
 end
 
 describe "#oxford_comma" do
